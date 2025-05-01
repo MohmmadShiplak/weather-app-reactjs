@@ -1,3 +1,25 @@
+
+# Weather App
+
+### A simple weather application that fetches and displays real-time weather data 
+
+## 🔥 Features
+
+### 📍 Search weather by city name.
+
+### 🌡️ Display current temperature, humidity, wind speed, and conditions.
+
+### ☀️🌙 Dynamic weather icons based on conditions
+
+## 🛠️ Technologies Used 
+
+## React.js (Functional Components + Hooks)
+
+## Axios (HTTP requests)
+
+## OpenWeatherMap API (Free tier)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
