@@ -13,11 +13,11 @@
 
 ## 🛠️ Technologies Used 
 
-## React.js (Functional Components + Hooks)
+### React.js (Functional Components + Hooks)
 
-## Axios (HTTP requests)
+### Axios (HTTP requests)
 
-## OpenWeatherMap API (Free tier)
+### OpenWeatherMap API (Free tier)
 
 
 # Getting Started with Create React App
